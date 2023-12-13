@@ -26,7 +26,7 @@ Follow these steps to make the most out of the English Pronunciation Learning Ap
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/english-pronunciation-app.git
+   git clone https://github.com/diegonunesreis/AprendaIngles.git
    ```
 
 2. Open the project in Android Studio.
